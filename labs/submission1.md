@@ -35,3 +35,6 @@
 1) **SQL Injection in authentication form** - Login to admin account using SQL Injection ' OR 1=1-- 
 2) **Reflected Cross-Site Scripting (XSS)** — Search functionality reflects user input without proper encoding, allowing JavaScript execution via payloads like `<svg onload=alert(1)>`
 3) **Broken Access Control** - allowsto view others' shopping carts by simply changing the cart ID in API requests while using their own valid authentication token, bypassing ownership checks
+
+## GitHub Community
+Starring repositories in open source signals appreciation, helps with project discovery, and bookmarks interesting work for future reference. Following developers enables learning from their contributions, builds professional networks, and facilitates collaboration on team projects.
